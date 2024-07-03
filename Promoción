@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Falsa de Phishing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: red;
+        }
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Cuidado con el Phishing</h1>
+    <p>Esta página es una simulación para demostrar cómo lucen los sitios de phishing.</p>
+    <p>Recuerda siempre verificar la URL antes de ingresar información personal.</p>
+    <p>¡Mantente seguro en línea!</p>
+</body>
+</html>
